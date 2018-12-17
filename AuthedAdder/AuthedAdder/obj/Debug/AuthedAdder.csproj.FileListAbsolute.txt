@@ -1,0 +1,14 @@
+C:\Users\Python\source\repos\AuthedAdder\AuthedAdder\bin\Debug\AuthedAdder.exe.config
+C:\Users\Python\source\repos\AuthedAdder\AuthedAdder\bin\Debug\AuthedAdder.exe
+C:\Users\Python\source\repos\AuthedAdder\AuthedAdder\bin\Debug\AuthedAdder.pdb
+C:\Users\Python\source\repos\AuthedAdder\AuthedAdder\obj\Debug\AuthedAdder.csprojAssemblyReference.cache
+C:\Users\Python\source\repos\AuthedAdder\AuthedAdder\obj\Debug\AuthedAdder.Form1.resources
+C:\Users\Python\source\repos\AuthedAdder\AuthedAdder\obj\Debug\AuthedAdder.Properties.Resources.resources
+C:\Users\Python\source\repos\AuthedAdder\AuthedAdder\obj\Debug\AuthedAdder.csproj.GenerateResource.cache
+C:\Users\Python\source\repos\AuthedAdder\AuthedAdder\obj\Debug\AuthedAdder.csproj.CoreCompileInputs.cache
+C:\Users\Python\source\repos\AuthedAdder\AuthedAdder\obj\Debug\AuthedAdder.exe
+C:\Users\Python\source\repos\AuthedAdder\AuthedAdder\obj\Debug\AuthedAdder.pdb
+C:\Users\Python\source\repos\AuthedAdder\AuthedAdder\bin\Debug\Authed.dll
+C:\Users\Python\source\repos\AuthedAdder\AuthedAdder\bin\Debug\jose-jwt.dll
+C:\Users\Python\source\repos\AuthedAdder\AuthedAdder\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Python\source\repos\AuthedAdder\AuthedAdder\obj\Debug\AuthedAdder.csproj.CopyComplete
